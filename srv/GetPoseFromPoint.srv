@@ -1,0 +1,4 @@
+geometry_msgs/Point sample_point
+sensor_msgs/PointCloud2 local_grid
+---
+geometry_msgs/Pose pose

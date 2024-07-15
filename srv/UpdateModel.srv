@@ -1,6 +1,6 @@
 # x and y do not refer to coordinates, but rather X is the (x,y) coord and y is
 # the radiation measurement at X
 geometry_msgs/Point x
-float y
+float64 y
 ---
 bool success
